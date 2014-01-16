@@ -6,5 +6,9 @@
  {
    "repository": "lge-kernel-gproj",
    "target_path": "kernel/lge/gproj"
+ },
+ {
+  "repository": "proprietary_vendor_lge"
+   "target_path": "vendor/lge"
  }
 ]
